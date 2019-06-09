@@ -1,7 +1,7 @@
 # Media Ocean - Retail Store
 
-Demonstration of a Micro-Service project created using Dropwizard to maintain Products and its Category of a retail store. 
-It also contains an API to generate the itemized bill.  
+Demonstration of a Micro-Service based project created using Dropwizard to maintain Products and its Category of a retail store. 
+It also contains an API to generate the itemized bill with sales tax.
 
 Technology stack used:
 1) Dropwizard framework
@@ -10,7 +10,7 @@ Technology stack used:
 3) JDBI Library for database interaction
 4) REST with JAX-RS
 5) Maven
-6) Swagger for API testing (Refer below for Swagger URL and use this for executing APIs)
+6) Swagger for API testing (Refer below for Swagger URL and use it for executing APIs)
 7) Mockito with TestNg suite for unit testing (Covered very basic testing due to time crunch)
 
 In order to run this project, please do following steps:
