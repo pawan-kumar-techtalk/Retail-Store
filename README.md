@@ -41,7 +41,7 @@ Note:
 
 Correct ProductIDs stored in DB from 1 to 15 (For more details hit Product APIs)
 
-Correct Categories stored in DB from 1 to 3 (For more details hit Category APIs)
+Correct Category IDs stored in DB from 1 to 3 (For more details hit Category APIs)
 
 API Details:
 1) To generate itemized bill of given Product IDs along with sales tax based on product category:
