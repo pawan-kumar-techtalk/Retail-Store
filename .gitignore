@@ -1,0 +1,17 @@
+/*.pmd
+/.classpath
+/.project
+/.settings
+/bin
+/classpath
+/lib
+/local.properties
+/project
+/splog_config.xml
+src/resources/local.properties
+src/resources/splog_config.xml
+/target
+/test-output
+.idea
+*.iml
+.DS_Store
