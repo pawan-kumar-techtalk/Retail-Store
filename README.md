@@ -20,14 +20,18 @@ In order to run this project, please do following steps:
 4) Run application from command-line: (command:  ./run.sh) 
 
 Ports:
+
 Application run on port: 9000
+
 Debugging Port: 4005
 
 PLEASE USE FOLLOWING SWAGGER URL TO TEST ALL APIs FROM A BROWSER FOR CONVENIENCE:  
 Swagger UI URL: http://localhost:9000/media-ocean/retail-store/swagger 
 
 Note: 
+
 Correct ProductIDs stored in DB from 1 to 15 (For more details hit Product APIs)
+
 Correct Categories stored in DB from 1 to 3 (For more details hit Category APIs)
 
 API Details:
