@@ -52,6 +52,7 @@ API Details:
   Content-Type:application/json  
   
  Example of body of API Request:
+    
     {
       "listProductId": [
         1,2,3
@@ -66,6 +67,7 @@ API Details:
   Content-Type:application/json
    
  Example of body of API Request:
+ 
  {
    "name": "NEW-CAT1",
    "salesTax": 20
@@ -87,6 +89,7 @@ API Details:
   Content-Type:application/json
  
  Example of body of API Request:
+ 
  {
    "name": "NEW-PROD1",
    "categoryId": 2,
