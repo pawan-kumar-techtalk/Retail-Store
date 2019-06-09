@@ -28,12 +28,13 @@ Debugging Port: 4005
 PLEASE USE FOLLOWING SWAGGER URL TO TEST ALL APIs FROM A BROWSER FOR CONVENIENCE:  
 Swagger UI URL: http://localhost:9000/media-ocean/retail-store/swagger 
 
-Swagger instructions: 
-(1) Make sure application is running
-(2) Hit above mentioned Swagger URL from a browser
-(3) Click on Headers to expand API list and select API to execute
-(4) Update appropriate API request body, if required
-(5) Click on 'Try it out!' button
+Swagger instructions:
+ 
+1) Make sure application is running
+2) Hit above mentioned Swagger URL from a browser
+3) Click on Headers to expand API list and select API to execute
+4) Update appropriate API request body, if required
+5) Click on 'Try it out!' button
 
 
 Note: 
