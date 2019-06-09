@@ -3,6 +3,15 @@
 Demonstration of a Micro-Service based project created using Dropwizard to maintain Products and its Category of a retail store. 
 It also contains an API to generate the itemized bill with sales tax.
 
+Assumption:
+
+Please note all UI part is assumed here, however, created relevant APIs to support the requirement.
+ 
+There will be a thick UI client which will have all product information by calling below mentioned Product APIs.
+Once the product scanning is done and selected products are part of a cart, UI client will call below mentioned Billing API 
+with Product IDs in cart to generate itemized bill.
+
+
 Technology stack used:
 1) Dropwizard framework
 2) Embedded H2 Database (Database included in Project path ./database)
@@ -107,3 +116,5 @@ API Details:
  Header:
   Accept:application/json
   Content-Type:application/json
+  
+  
