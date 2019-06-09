@@ -5,8 +5,7 @@ It also contains an API to generate the itemized bill with sales tax.
 
 Assumption:
 
-Please note all UI part is assumed here, however, created relevant APIs to support the requirement.
- 
+Please note all UI part is assumed here, however, created relevant APIs in this project to support the requirement.
 There will be a thick UI client which will have all product information by calling below mentioned Product APIs.
 Once the product scanning is done and selected products are part of a cart, UI client will call below mentioned Billing API 
 with Product IDs in cart to generate itemized bill.
