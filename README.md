@@ -45,6 +45,7 @@ Correct Categories stored in DB from 1 to 3 (For more details hit Category APIs)
 
 API Details:
 1) To generate itemized bill of given Product IDs along with sales tax based on product category:
+ 
  POST    http://localhost:9000/media-ocean/retail-store/billing
  
  Header:
@@ -60,6 +61,7 @@ API Details:
     }
           
 2) To create a category:
+ 
  POST    http://localhost:9000/media-ocean/retail-store/categories
  
  Header:
@@ -74,6 +76,7 @@ API Details:
  }
 
 4) To get list of all categories:
+ 
  GET    http://localhost:9000/media-ocean/retail-store/categories
  
  Header:
@@ -82,6 +85,7 @@ API Details:
 
  
 5) To create a product:
+ 
  POST     http://localhost:9000/media-ocean/retail-store/products
  
  Header:
@@ -97,6 +101,7 @@ API Details:
  }
  
  6) To get list of all products:
+ 
  GET http://localhost:9000/media-ocean/retail-store/products
  
  Header:
