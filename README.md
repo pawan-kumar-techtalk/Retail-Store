@@ -5,7 +5,7 @@ It also contains an API to generate the itemized bill.
 
 Technology stack used:
 1) Dropwizard framework
-2) Embedded H2 Database (Database included in Project in path ./database)
+2) Embedded H2 Database (Database included in Project path ./database)
 2) Spring IOC
 3) JDBI Library for database interaction
 4) REST with JAX-RS
@@ -44,7 +44,7 @@ Correct ProductIDs stored in DB from 1 to 15 (For more details hit Product APIs)
 Correct Categories stored in DB from 1 to 3 (For more details hit Category APIs)
 
 API Details:
-1) To generate itemized bill based on given Product IDs:
+1) To generate itemized bill of given Product IDs along with sales tax based on product category:
  POST    http://localhost:9000/media-ocean/retail-store/billing
  
  Header:
