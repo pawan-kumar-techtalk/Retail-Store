@@ -5,6 +5,7 @@
 /bin
 /classpath
 /lib
+/logs
 /local.properties
 /project
 /splog_config.xml
